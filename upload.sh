@@ -1,3 +1,3 @@
 git add .
-git commit -m "message"
+git commit -m "$0"
 git push
